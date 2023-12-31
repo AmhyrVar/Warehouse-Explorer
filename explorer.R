@@ -2,7 +2,20 @@ library(tidyverse)
 c <-read.csv("icu/inputevents.csv")
 b <-read.csv("icu/outputevents.csv")
 CONCEPT <- read_delim("Voca/CONCEPT.csv", delim = "\t", escape_double = FALSE, trim_ws = TRUE)
+####LAB events####
+labevents <-read.csv("hosp/labevents.csv")
+labitems <-read.csv("hosp/d_labitems.csv")
+labevents1 <- labevents %>% 
+  distinct(itemid, .keep_all = TRUE)
 
+labevents1 <- labevents1 %>% 
+  select(c(itemid))
+resultat <- inner_join(labevents1, labitems, by = "itemid")
+write.csv(resultat, file = "labevents_usagi2.csv")
+
+lab_dico <- read.csv("lab_dico.csv")
+
+####
 
 target_string <- "1127078"
 
