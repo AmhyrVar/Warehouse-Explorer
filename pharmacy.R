@@ -11,7 +11,7 @@ drug_exposure_temp <- drug_exposure[FALSE, ]
 
 #On selectionne les colonnes à garder dans la table pharmacy et on supprime les rows avec des vides
 pharmacy_selected <- pharmacy[, c("subject_id", "hadm_id", "pharmacy_id", "starttime", "stoptime", "medication")]
-pharmacy_clean <- pharmacy_clean[rowSums(pharmacy_clean == "") == 0, ]
+pharmacy_clean <- pharmacy_selected[rowSums(pharmacy_selected == "") == 0, ]
 
 #Travail sur la colonne medication pour avoir une source de données pour Usagi
 unique_medication <- unique(pharmacy_clean$medication)
