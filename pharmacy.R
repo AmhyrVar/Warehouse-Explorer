@@ -56,5 +56,16 @@ drug_exposure_temp[drug_exposure_temp == "NA"] <- ""
 # Save the CSV file
 write.csv(drug_exposure_temp, file = "drug_exposure/drug_exposure_mapped.csv", na = "", row.names = FALSE)
 
+opr <- read.csv("drug_exposure/observation_period_raw.csv")
+opr_temp <- opr[FALSE, ]
+if(nrow(opr_temp) == 0) {
+  opr_temp  <- opr_temp [seq_len(nrow(drug_exposure_mapped)), ]
+}
 
+opr_temp$observation_period_id <- 6000:(5999 + nrow(opr_temp))
+opr_temp$person_id <- drug_exposure_mapped$person_id
+opr_temp$period_type_concept_id <- 44814724
+opr_temp$observation_period_start_date <- drug_exposure_mapped$drug_exposure_start_date
+opr_temp$observation_period_end_date <- drug_exposure_mapped$drug_exposure_end_date
 
+write.csv(opr_temp, file = "drug_exposure/observation_period.csv", na = "", row.names = FALSE)

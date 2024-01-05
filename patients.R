@@ -48,7 +48,7 @@ unique_races_df <- data.frame(races = unique_races)
 write.csv(unique_races_df, file = "person/unique_races.csv")
 
 #Importer la map USAGI
-ra_eth_map <- read.csv("person/ra_eth_map.csv")
+ra_eth_map <- read.csv("person/usagi_race_map.csv")
 ra_eth_map <- ra_eth_map[, c("source_code_description","target_concept_id")]
 
 
@@ -61,6 +61,10 @@ mimic_admissions_clean2 <- mimic_admissions_clean %>%
     race == 38003563 ~ 38003563,  # Si race est égale à 38003563
     TRUE ~ 38003564               # Sinon, dans tous les autres cas
   ))
+
+mimic_admissions_clean2 <- mimic_admissions_clean2 %>%
+  mutate(race = ifelse(is.na(race), 0, race))
+
 #Il y a des doublons 
 mimic_admissions_unique <- mimic_admissions_clean2 %>%
   distinct(subject_id, .keep_all = TRUE)
@@ -90,3 +94,30 @@ omop_person_temp[omop_person_temp == "NA"] <- ""
 
 # Save the CSV file
 write.csv(omop_person_temp, file = "person/person_mapped.csv", na = "", row.names = FALSE)
+
+
+
+
+####Suite person
+
+omop_person_temp$month_of_birth <- 1
+omop_person_temp$day_of_birth <- 1
+
+omop_person_temp1 <- omop_person_temp1 %>%
+  mutate(test_birth_datetime = paste(paste(year_of_birth, 
+                                           month_of_birth, 
+                                           day_of_birth, sep="-"), 
+                                     "00:00:00.000"))
+omop_person_temp1 <- omop_person_temp1 %>% 
+  select(-birth_datetime) %>% 
+  rename(birth_datetime = test_birth_datetime)
+  
+# Save the CSV file
+write.csv(omop_person_temp1, file = "person/person_mapped.csv", na = "", row.names = FALSE)
+
+class(omop_person_temp$year_of_birth)
+omop_person_temp$year_of_birth <- as.integer(omop_person_temp$year_of_birth)
+class(omop_person_temp$ethnicity_concept_id)
+
+omop_person_temp$ethnicity_concept_id <- as.integer(omop_person_temp$ethnicity_concept_id)
+omop_person_temp$race_concept_id <- as.integer(omop_person_temp$race_concept_id )

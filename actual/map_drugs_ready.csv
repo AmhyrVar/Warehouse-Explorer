@@ -1,0 +1,584 @@
+"source_concept_id","vocabulary_id","concept_name","concept_id","target_vocabulary_id","valid_start_date","valid_end_date","invalid_reason","domain_id","concept_class_id","standard_concept","concept_code"
+0,"RxNorm","Aspirin EC",1112807,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1112807
+0,"RxNorm","Gemfibrozil",1558242,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1558242
+0,"RxNorm","Propofol",753626,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",753626
+0,"RxNorm","Heparin",1367571,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1367571
+0,"RxNorm","Trimethoprim",1705674,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1705674
+0,"RxNorm","DiphenhydrAMINE",1129625,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1129625
+0,"RxNorm","Hydrocortisone Cream 2.5%",19021351,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19021351
+0,"RxNorm","Citalopram",797617,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",797617
+0,"RxNorm","Potassium Phosphate Replacement (Oncology)",19027362,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19027362
+0,"RxNorm","Alprazolam",781039,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",781039
+0,"RxNorm","LevETIRAcetam",711584,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",711584
+0,"RxNorm","Propranolol LA",1353766,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1353766
+0,"RxNorm","Nystatin Cream",40068160,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40068160
+0,"RxNorm","Tacrolimus Suspension",950637,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",950637
+0,"RxNorm","DULoxetine",715259,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",715259
+0,"RxNorm","PHENObarbital - ICU Alcohol Withdrawal (Initial Load / Rescue Dose)",734275,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",734275
+0,"RxNorm","Cepacol (Menthol)",19123003,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19123003
+0,"RxNorm","Raltegravir",1712889,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1712889
+0,"RxNorm","Lactulose",987245,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",987245
+0,"RxNorm","TraMADol",1103314,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1103314
+0,"RxNorm","Etoposide",1350504,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1350504
+0,"RxNorm","Aspirin 81 mg",1113309,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1113309
+0,"RxNorm","Multivitamins",19008339,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19008339
+0,"RxNorm","Alteplase",1347450,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1347450
+0,"RxNorm","Calcium Carbonate",19035704,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19035704
+0,"RxNorm","Bengay Cream",19041930,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19041930
+0,"RxNorm","Cytarabine",1311078,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1311078
+0,"RxNorm","Neutra-Phos",40072722,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40072722
+0,"RxNorm","Fleet Enema",40065004,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40065004
+0,"RxNorm","Potassium Chloride Replacement (Oncology)",19049105,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19049105
+0,"RxNorm","Lenalidomide (Revlimide)15mg",19025426,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19025426
+0,"RxNorm","Rifaximin",1735947,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1735947
+0,"RxNorm","Iohexol 240",19080985,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19080985
+0,"RxNorm","Lidocaine 2%",989878,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",989878
+0,"RxNorm","Labetalol",1386957,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1386957
+0,"RxNorm","Psyllium",957797,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",957797
+0,"RxNorm","Nephrocaps",1343916,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1343916
+0,"RxNorm","Mitoxantrone HCl",1309188,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1309188
+0,"RxNorm","Hemorrhoidal Suppository",40166418,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40166418
+0,"RxNorm","LeVETiracetam",711584,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",711584
+0,"RxNorm","Psyllium Wafer",40074718,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40074718
+0,"RxNorm","Nicotine Polacrilex",42903857,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",42903857
+0,"RxNorm","GlipiZIDE",1560171,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1560171
+0,"RxNorm","Voriconazole",1714277,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1714277
+0,"RxNorm","Readi-Cat 2 (Barium Sulfate 2% Suspension)",19011331,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19011331
+0,"RxNorm","Diltiazem Extended-Release",40035694,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40035694
+0,"RxNorm","Haloperidol",766529,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",766529
+0,"RxNorm","Heparin Flush (100 units/ml)",1367697,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1367697
+0,"RxNorm","Sulfameth/Trimethoprim DS",40101830,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40101830
+0,"RxNorm","Milrinone",1368671,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1368671
+0,"RxNorm","Metamucil Fiber Singles",19102639,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19102639
+0,"RxNorm","Cepastat (Phenol) Lozenge",42705722,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",42705722
+0,"RxNorm","Thrombin",1300673,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1300673
+0,"RxNorm","Tizanidine",778474,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",778474
+0,"RxNorm","AndroGel",19076389,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19076389
+0,"RxNorm","Cosyntropin",19008009,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19008009
+0,"RxNorm","Docusate Sodium (Liquid)",42706627,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",42706627
+0,"RxNorm","Niacin",1517824,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1517824
+0,"RxNorm","Simethicone",966991,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",966991
+0,"RxNorm","Atropine Sulfate 1%",40243435,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40243435
+0,"RxNorm","Baclofen",715233,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",715233
+0,"RxNorm","Heparin Flush (1000 units/mL)",1367697,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1367697
+0,"RxNorm","Ivermectin",1784444,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1784444
+0,"RxNorm","TiCAGRELOR",40241186,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40241186
+0,"RxNorm","Isosorbide Mononitrate (Extended Release)",19064964,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19064964
+0,"RxNorm","Diazepam - CIWA protocol",723013,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",723013
+0,"RxNorm","GlipiZIDE XL",1560171,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1560171
+0,"RxNorm","Fluoxetine",755695,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",755695
+0,"RxNorm","Insulin (Regular) for Hyperkalemia",1586346,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1586346
+0,"RxNorm","ZIPRASidone Hydrochloride",42705353,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",42705353
+0,"RxNorm","Nadolol",1313200,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1313200
+0,"RxNorm","Heparin Dwell (1000 Units/mL)",1367697,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1367697
+0,"RxNorm","Metoprolol Tartrate",40167199,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40167199
+0,"RxNorm","Morphine Sulfate (Oral Soln.)",40170024,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40170024
+0,"RxNorm","Ketamine (For Intubation)",785649,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",785649
+0,"RxNorm","Morphine Sulfate",40169889,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40169889
+0,"RxNorm","Magnesium Oxide",993631,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",993631
+0,"RxNorm","Finasteride",996416,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",996416
+0,"RxNorm","Duloxetine",715259,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",715259
+0,"RxNorm","Darunavir",1756831,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1756831
+0,"RxNorm","Sodium CITRATE 4%",977968,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",977968
+0,"RxNorm","Tigecycline",1742432,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1742432
+0,"RxNorm","Paroxetine",722031,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",722031
+0,"RxNorm","Methimazole",1504620,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1504620
+0,"RxNorm","Ziprasidone Mesylate",712615,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",712615
+0,"RxNorm","Lidocaine-Prilocaine",951279,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",951279
+0,"RxNorm","Mupirocin Nasal Ointment 2%",40062277,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40062277
+0,"RxNorm","Fenofibrate",1551803,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1551803
+0,"RxNorm","Aluminum-Magnesium Hydrox.-Simethicone",40135214,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40135214
+0,"RxNorm","HYDROcodone-Acetaminophen (5mg-325mg)",40002706,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40002706
+0,"RxNorm","Escitalopram Oxalate",40041668,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40041668
+0,"RxNorm","Neomycin-Polymyxin-Bacitracin",40013972,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40013972
+0,"RxNorm","Clopidogrel",1322184,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1322184
+0,"RxNorm","Thyroid",43532113,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",43532113
+0,"RxNorm","Neostigmine (CVICU Reversal Protocol)",717136,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",717136
+0,"RxNorm","Cinacalcet",1548111,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1548111
+0,"RxNorm","Calcitriol",19035631,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19035631
+0,"RxNorm","Chlorhexidine Gluconate 0.12% Oral Rinse",1790982,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1790982
+0,"RxNorm","Acetaminophen w/Codeine",40003695,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40003695
+0,"RxNorm","Divalproex (EXTended Release)",40238256,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40238256
+0,"RxNorm","NIFEdipine CR",1318853,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1318853
+0,"RxNorm","Calcium Replacement (Oncology)",19018544,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19018544
+0,"RxNorm","PHENObarbital - ICU Alcohol Withdrawal (Loading Dose 1)",734275,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",734275
+0,"RxNorm","Glycopyrrolate (CVICU Reversal Protocol)",19081297,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19081297
+0,"RxNorm","FLUoxetine",755695,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",755695
+0,"RxNorm","Sodium Chloride",967823,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",967823
+0,"RxNorm","Tricor",1353048,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1353048
+0,"RxNorm","CloniDINE",1398937,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1398937
+0,"RxNorm","Chloraseptic Throat Spray",19131487,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19131487
+0,"RxNorm","Magnesium Sulfate Replacement (Oncology)",19093848,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19093848
+0,"RxNorm","Belladonna & Opium (16.2/30mg)",19055620,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19055620
+0,"RxNorm","Terbinafine 1% Cream",40102767,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40102767
+0,"RxNorm","Hydrochlorothiazide",974166,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",974166
+0,"RxNorm","Miconazole 2% Cream",40063807,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40063807
+0,"RxNorm","Neomycin Sulfate",40167223,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40167223
+0,"RxNorm","Dorzolamide 2%/Timolol 0.5% Ophth.",1594711,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1594711
+0,"RxNorm","Meperidine",1102527,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1102527
+0,"RxNorm","Levothyroxine Sodium",40169798,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40169798
+0,"RxNorm","Felodipine",1353776,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1353776
+0,"RxNorm","OxycoDONE-Acetaminophen Elixir",40162510,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40162510
+0,"RxNorm","Furosemide",956874,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",956874
+0,"RxNorm","Timolol Maleate 0.5%",40180691,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40180691
+0,"RxNorm","Desmopressin Acetate",1517146,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1517146
+0,"RxNorm","Sarna Lotion",40091252,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40091252
+0,"RxNorm","Vitamin E",19009540,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19009540
+0,"RxNorm","Triamcinolone Acetonide 0.1% Cream",40234010,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40234010
+0,"RxNorm","Vitamin D3",42709324,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",42709324
+0,"RxNorm","Levalbuterol Neb",1192218,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1192218
+0,"RxNorm","ClonazePAM",798874,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",798874
+0,"RxNorm","Avapro",37498468,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",37498468
+0,"RxNorm","Rocuronium",19003953,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19003953
+0,"RxNorm","Metolazone",907013,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",907013
+0,"RxNorm","Allopurinol",1167322,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1167322
+0,"RxNorm","Aquaphor Ointment",1758586,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1758586
+0,"RxNorm","Ranitidine",961047,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",961047
+0,"RxNorm","Tobramycin",902722,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",902722
+0,"RxNorm","Meclizine",994341,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",994341
+0,"RxNorm","Hydrocodone-Acetaminophen (5mg-500mg)",40002706,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40002706
+0,"RxNorm","Docusate",941258,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",941258
+0,"RxNorm","Sodium Bicarbonate",939506,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",939506
+0,"RxNorm","Vitamin B Complex",19010970,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19010970
+0,"RxNorm","Artificial Tears Preserv. Free",902551,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",902551
+0,"RxNorm","Lidocaine",989878,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",989878
+0,"RxNorm","Magnesium Sulfate Replacement (Critical Care and Oncology)",19093848,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19093848
+0,"RxNorm","Ferrous Gluconate",1396012,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1396012
+0,"RxNorm","MetFORMIN (Glucophage)",40063356,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40063356
+0,"RxNorm","QUEtiapine Fumarate",766814,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",766814
+0,"RxNorm","Orthopedic Solution",40087945,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40087945
+0,"RxNorm","amLODIPine",1332418,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1332418
+0,"RxNorm","Aluminum Hydroxide Suspension",40008250,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40008250
+0,"RxNorm","Methadone",1103640,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1103640
+0,"RxNorm","Januvia",19125043,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19125043
+0,"RxNorm","Calcium Gluconate Replacement (Oncology)",19037038,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19037038
+0,"RxNorm","Divalproex Sod. Sprinkles",40238243,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40238243
+0,"RxNorm","Loratadine",1107830,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1107830
+0,"RxNorm","Fish Oil (Omega 3)",19110701,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19110701
+0,"RxNorm","PHENObarbital - ICU Alcohol Withdrawal (Loading Dose 2 and 3)",734275,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",734275
+0,"RxNorm","Calcium Chloride",19036781,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19036781
+0,"RxNorm","Spironolactone",970250,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",970250
+0,"RxNorm","Alteplase 1mg/2mL ( Clearance ie. PICC, tunneled access line )",1347450,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1347450
+0,"RxNorm","OxyCODONE--Acetaminophen (5mg-325mg)",40002751,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40002751
+0,"RxNorm","Docusate",941258,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",941258
+0,"RxNorm","PHENObarbital",734275,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",734275
+0,"RxNorm","Calcium Gluconate sliding scale (Critical Care-Ionized calcium)",19037038,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19037038
+0,"RxNorm","Isosorbide Dinitrate ER",1383925,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1383925
+0,"RxNorm","HYDROmorphone (Dilaudid)",40051251,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40051251
+0,"RxNorm","Rasburicase",1304565,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1304565
+0,"RxNorm","Psyllium Powder",957797,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",957797
+0,"RxNorm","adde",714847,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",714847
+0,"RxNorm","Mupirocin Ointment 2%",40062282,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40062282
+0,"RxNorm","ibrutinib",44507848,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",44507848
+0,"RxNorm","Esmolol",19063575,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19063575
+0,"RxNorm","Aspirin (Buffered)",40010191,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40010191
+0,"RxNorm","2",0,"None",1970-01-01,2099-12-31,,"Drug","Ingredient","S",0
+0,"RxNorm","Apixaban",43013024,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",43013024
+0,"RxNorm","Alteplase (Catheter Clearance)",1347450,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1347450
+0,"RxNorm","PredniSONE",1551099,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1551099
+0,"RxNorm","venetoclax",35604205,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",35604205
+0,"RxNorm","OxycoDONE (Immediate Release)",1124957,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1124957
+0,"RxNorm","Albumin 25%",42903893,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",42903893
+0,"RxNorm","Triamcinolone Acetonide 0.025% Cream",40233993,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40233993
+0,"RxNorm","Ondansetron ODT",1000560,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1000560
+0,"RxNorm","Rivaroxaban",40241331,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40241331
+0,"RxNorm","Valsartan",1308842,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1308842
+0,"RxNorm","1",0,"None",1970-01-01,2099-12-31,,"Drug","Ingredient","S",0
+0,"RxNorm","Ampicillin",1717327,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1717327
+0,"RxNorm","Bumetanide",932745,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",932745
+0,"RxNorm","Fluticasone-Salmeterol Diskus (100/50)",42902665,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",42902665
+0,"RxNorm","MethylPHENIDATE (Ritalin)",705944,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",705944
+0,"RxNorm","GuaiFENesin",1163944,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1163944
+0,"RxNorm","Carbamide Peroxide 6.5%",958999,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",958999
+0,"RxNorm","Gastroview (Diatrizoate Meglumine & Sodium)",19022596,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19022596
+0,"RxNorm","Hydroxychloroquine Sulfate",701777,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",701777
+0,"RxNorm","Lidocaine Jelly 2%",35602800,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",35602800
+0,"RxNorm","Acetaminophen",1125315,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1125315
+0,"RxNorm","Racepinephrine",1300153,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1300153
+0,"RxNorm","BusPIRone",733301,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",733301
+0,"RxNorm","Venetoclax",35604205,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",35604205
+0,"RxNorm","Fluconazole",1754994,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1754994
+0,"RxNorm","NiMODipine",1319133,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1319133
+0,"RxNorm","Citrate Dextrose 3% (ACD-A) CRRT",37002611,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",37002611
+0,"RxNorm","Omeprazole",923645,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",923645
+0,"RxNorm","Chlorthalidone",1395058,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1395058
+0,"RxNorm","ruxolitinib",40244464,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40244464
+0,"RxNorm","Nimodipine",1319133,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1319133
+0,"RxNorm","Micafungin",19018013,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19018013
+0,"RxNorm","Benztropine Mesylate",40168887,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40168887
+0,"RxNorm","Vitamin A",19008339,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19008339
+0,"RxNorm","Topiramate (Topamax)",742267,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",742267
+0,"RxNorm","Metoprolol Succinate XL",43014167,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",43014167
+0,"RxNorm","NIFEdipine",1318853,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1318853
+0,"RxNorm","Calcium Gluconate sliding scale – Ionized calcium",19037038,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19037038
+0,"RxNorm","Zinc Sulfate",19044522,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19044522
+0,"RxNorm","Diltiazem",1328165,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1328165
+0,"RxNorm","Tuberculin Protein",19010871,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19010871
+0,"RxNorm","LaMOTrigine",705103,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",705103
+0,"RxNorm","Furosemide-Heart Failure",956874,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",956874
+0,"RxNorm","Ipratropium Bromide MDI",1113075,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1113075
+0,"RxNorm","Vitamin B Complex w/C",19010970,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19010970
+0,"RxNorm","Aztreonam",1715117,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1715117
+0,"RxNorm","Estrogens Conjugated",1549080,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1549080
+0,"RxNorm","Sotalol",1370109,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1370109
+0,"RxNorm","Tucks Hemorrhoidal Oint 1%",40222940,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40222940
+0,"RxNorm","Amiodarone",1309944,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1309944
+0,"RxNorm","Vitamin D3",42709324,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",42709324
+0,"RxNorm","Cetirizine",1149196,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1149196
+0,"RxNorm","Methylnaltrexone",909841,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",909841
+0,"RxNorm","PARoxetine",722031,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",722031
+0,"RxNorm","Hydrocortisone (Rectal) 2.5% Cream",40049707,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40049707
+0,"RxNorm","Ursodiol",988122,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",988122
+0,"RxNorm","Fentanyl PCA",1154029,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1154029
+0,"RxNorm","Ciprofloxacin 0.3% Ophth Soln",19075378,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19075378
+0,"RxNorm","Febuxostat",19017742,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19017742
+0,"RxNorm","Clonazepam",798874,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",798874
+0,"RxNorm","Pyridoxine",19005046,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19005046
+0,"RxNorm","Naloxone",1114220,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1114220
+0,"RxNorm","Cepacol (Sore Throat Lozenge)",19123003,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19123003
+0,"RxNorm","Methylprednisolone",1506270,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1506270
+0,"RxNorm","Ipratropium Bromide Neb",1113075,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1113075
+0,"RxNorm","PHENObarbital Alcohol Withdrawal Dose Taper (Days 2-7)",734275,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",734275
+0,"RxNorm","Lactulose Enema",987245,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",987245
+0,"RxNorm","Calcium Gluconate Replacement (Critical Care and Oncology)",19037038,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19037038
+0,"RxNorm","Collagenase Ointment",40016963,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40016963
+0,"RxNorm","23.4% Sodium Chloride",702483,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",702483
+0,"RxNorm","OLANZapine (Disintegrating Tablet)",40101919,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40101919
+0,"RxNorm","BuPROPion XL (Once Daily)",750982,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",750982
+0,"RxNorm","Carvedilol",1346823,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1346823
+0,"RxNorm","Clotrimazole",1000632,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1000632
+0,"RxNorm","Albuterol-Ipratropium",1356123,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1356123
+0,"RxNorm","Sodium Glycerophosphate",1337159,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1337159
+0,"RxNorm","Vecuronium Bromide",40165388,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40165388
+0,"RxNorm","Ranitidine (Liquid)",961047,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",961047
+0,"RxNorm","Diazepam",723013,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",723013
+0,"RxNorm","Calcitonin Salmon",1537655,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1537655
+0,"RxNorm","Insulin Pump (Self Administering Medication)",45775350,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",45775350
+0,"RxNorm","HumaLOG",40166274,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40166274
+0,"RxNorm","Fleet Enema (Mineral Oil)",40065004,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40065004
+0,"RxNorm","brimonidine",915542,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",915542
+0,"RxNorm","Verapamil",1307863,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1307863
+0,"RxNorm","Fluticasone Propionate 110mcg",42903220,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",42903220
+0,"RxNorm","Sertraline",739138,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",739138
+0,"RxNorm","PNEUMOcoccal 23-valent polysaccharide vaccine",40163686,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40163686
+0,"RxNorm","Pamidronate",1511646,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1511646
+0,"RxNorm","ertapenem",1717963,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1717963
+0,"RxNorm","SulfaSALAzine_",964339,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",964339
+0,"RxNorm","OxyCODONE (Immediate Release)",1124957,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1124957
+0,"RxNorm","Ferrous Sulfate (Liquid)",1396131,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1396131
+0,"RxNorm","Phosphorus",19043395,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19043395
+0,"RxNorm","Divalproex (DELayed Release)",40238244,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40238244
+0,"RxNorm","CARBOplatin",1344905,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1344905
+0,"RxNorm","Brimonidine Tartrate 0.15% Ophth.",40164134,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40164134
+0,"RxNorm","Succinylcholine",836208,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",836208
+0,"RxNorm","Midodrine",1308368,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1308368
+0,"RxNorm","Insulin",35605670,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",35605670
+0,"RxNorm","Bisacodyl",924939,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",924939
+0,"RxNorm","Emtricitabine-Tenofovir (Truvada)",40124351,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40124351
+0,"RxNorm","Influenza Vaccine Quadrivalent",46287746,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",46287746
+0,"RxNorm","Aminocaproic Acid",1369939,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1369939
+0,"RxNorm","Albumin 25% (12.5g / 50mL)",42903893,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",42903893
+0,"RxNorm","HydrALAzine",1373928,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1373928
+0,"RxNorm","Simvastatin",1539403,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1539403
+0,"RxNorm","LamoTRIgine",705103,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",705103
+0,"RxNorm","Nicotine Patch",718583,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",718583
+0,"RxNorm","Cephalexin",1786621,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1786621
+0,"RxNorm","Pantoprazole",948078,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",948078
+0,"RxNorm","Salmeterol Xinafoate Diskus (50 mcg)",40166802,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40166802
+0,"RxNorm","Amlodipine",1332418,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1332418
+0,"RxNorm","Octreotide Acetate",1522957,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1522957
+0,"RxNorm","Mupirocin Cream 2%",40062280,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40062280
+0,"RxNorm","Vancomycin Oral Liquid",1707687,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1707687
+0,"RxNorm","Tiotropium Bromide",1106776,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1106776
+0,"RxNorm","Albumin 5%",42903893,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",42903893
+0,"RxNorm","Influenza Virus Vaccine",40225008,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40225008
+0,"RxNorm","Olanzapine",785788,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",785788
+0,"RxNorm","Opium Tincture",19133364,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19133364
+0,"RxNorm","Digoxin",1326303,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1326303
+0,"RxNorm","riluzole",735951,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",735951
+0,"RxNorm","Amoxicillin-Clavulanic Acid",40105046,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40105046
+0,"RxNorm","RiTONAvir",1748921,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1748921
+0,"RxNorm","Zolpidem Tartrate",744795,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",744795
+0,"RxNorm","Phytonadione",19044727,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19044727
+0,"RxNorm","Ondansetron",1000560,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1000560
+0,"RxNorm","Carbamazepine",740275,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",740275
+0,"RxNorm","Cefpodoxime Proxetil",1749008,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1749008
+0,"RxNorm","Ketorolac",1136980,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1136980
+0,"RxNorm","Niacin SR",1517824,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1517824
+0,"RxNorm","Pneumococcal Vac Polyvalent",45775996,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",45775996
+0,"RxNorm","Ezetimibe",1526475,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1526475
+0,"RxNorm","Lidocaine 0.5%",989878,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",989878
+0,"RxNorm","Fosphenytoin",713192,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",713192
+0,"RxNorm","Dexamethasone",1518254,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1518254
+0,"RxNorm","Tacrolimus",950637,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",950637
+0,"RxNorm","Levofloxacin",1742253,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1742253
+0,"RxNorm","Atropine Sulfate",40243435,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40243435
+0,"RxNorm","TraZODone",703547,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",703547
+0,"RxNorm","Isosorbide Dinitrate",1383925,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1383925
+0,"RxNorm","Dexamethasone Ophthalmic Susp 0.1%",40028596,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40028596
+0,"RxNorm","Oxycodone SR (OxyconTIN)",1124957,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1124957
+0,"RxNorm","Chlorothiazide",992590,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",992590
+0,"RxNorm","Glycopyrrolate",19081297,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19081297
+0,"RxNorm","Esomeprazole sodium",904453,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",904453
+0,"RxNorm","Phenytoin Infatab",740910,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",740910
+0,"RxNorm","traZODONE",703547,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",703547
+0,"RxNorm","Phenytoin",740910,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",740910
+0,"RxNorm","Lidocaine 1% (For PICC/Midline Insertions)",19109977,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19109977
+0,"RxNorm","Miconazole Powder 2%",40063828,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40063828
+0,"RxNorm","LOPERamide",991876,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",991876
+0,"RxNorm","Linezolid",1736887,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1736887
+0,"RxNorm","Neostigmine",717136,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",717136
+0,"RxNorm","Benzonatate",1136601,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1136601
+0,"RxNorm","Senna",1511349,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1511349
+0,"RxNorm","rifAXIMin",1735947,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1735947
+0,"RxNorm","FoLIC Acid",19111620,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19111620
+0,"RxNorm","Ferric Gluconate",1399177,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1399177
+0,"RxNorm","Sulfamethoxazole-Trimethoprim",40081388,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40081388
+0,"RxNorm","Dextran 40 in NaCl",1592666,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1592666
+0,"RxNorm","Doxazosin",1363053,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1363053
+0,"RxNorm","Oseltamivir",1799139,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1799139
+0,"RxNorm","Phenazopyridine",933724,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",933724
+0,"RxNorm","Fluticasone-Salmeterol Diskus (250/50)",40169282,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40169282
+0,"RxNorm","NexIUM",35606348,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",35606348
+0,"RxNorm","Ibuprofen Suspension",40054148,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40054148
+0,"RxNorm","Famotidine (IV)",953076,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",953076
+0,"RxNorm","Potassium Chloride Replacement (Critical Care and Oncology)",19049105,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19049105
+0,"RxNorm","Donepezil",715997,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",715997
+0,"RxNorm","Perphenazine",733008,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",733008
+0,"RxNorm","HYDROmorphone Infusion – Comfort Care Guidelines",1126658,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1126658
+0,"RxNorm","Scopolamine Patch",965748,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",965748
+0,"RxNorm","Glucose Gel",40045804,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40045804
+0,"RxNorm","CefTRIAXone",1777806,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1777806
+0,"RxNorm","Fludrocortisone Acetate",37002455,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",37002455
+0,"RxNorm","Lansoprazole Oral Disintegrating Tab",40140164,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40140164
+0,"RxNorm","PHENObarbital",734275,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",734275
+0,"RxNorm","NORepinephrine",1321341,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1321341
+0,"RxNorm","OxyCODONE SR (OxyconTIN)",1124957,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1124957
+0,"RxNorm","Dextrose 50%",19076324,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19076324
+0,"RxNorm","Verapamil SR",1307863,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1307863
+0,"RxNorm","Epoetin Alfa",1301125,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1301125
+0,"RxNorm","DOPamine",1337860,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1337860
+0,"RxNorm","Lidocaine 5% Patch",42629129,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",42629129
+0,"RxNorm","Dexamethasone Ophthalmic Soln 0.1%",40028592,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40028592
+0,"RxNorm","BuPROPion",750982,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",750982
+0,"RxNorm","OLANZapine",785788,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",785788
+0,"RxNorm","Magnesium Sulfate",19093848,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19093848
+0,"RxNorm","Filgrastim",1304850,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1304850
+0,"RxNorm","DOBUTamine",1337720,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1337720
+0,"RxNorm","Tamoxifen Citrate",1436678,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1436678
+0,"RxNorm","Lorazepam",791967,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",791967
+0,"RxNorm","Calcium Acetate",951469,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",951469
+0,"RxNorm","Acetaminophen IV",1125315,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1125315
+0,"RxNorm","Acetaminophen-Caff-Butalbital",40004013,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40004013
+0,"RxNorm","Ambisome",40175780,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40175780
+0,"RxNorm","Clevidipine",19089969,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19089969
+0,"RxNorm","Potassium Phosphate",19027362,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19027362
+0,"RxNorm","Indomethacin",1178663,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1178663
+0,"RxNorm","Gabapentin",797399,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",797399
+0,"RxNorm","RISperidone",735979,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",735979
+0,"RxNorm","Aspirin",1112807,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1112807
+0,"RxNorm","Azithromycin",1734104,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1734104
+0,"RxNorm","OSELTAMivir",1799139,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1799139
+0,"RxNorm","Acetylcysteine (IV)",1139042,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1139042
+0,"RxNorm","Sodium Phosphate",939871,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",939871
+0,"RxNorm","Ramelteon",781182,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",781182
+0,"RxNorm","LeVETiracetam Oral Solution",40052545,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40052545
+0,"RxNorm","sevelamer CARBONATE",19127951,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19127951
+0,"RxNorm","Filgrastim-sndz",1301857,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1301857
+0,"RxNorm","Sodium Fluoride 1.1% (Dental Gel)",19084701,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19084701
+0,"RxNorm","Prazosin",1350489,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1350489
+0,"RxNorm","Ropivacaine 0.2%",1136487,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1136487
+0,"RxNorm","Potassium Chloride (Powder)",40076078,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40076078
+0,"RxNorm","Daptomycin",1786617,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1786617
+0,"RxNorm","Sodium Polystyrene Sulfonate",19078126,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19078126
+0,"RxNorm","Heparin (CRRT Machine Priming)",1367571,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1367571
+0,"RxNorm","Hydroxyurea",1377141,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1377141
+0,"RxNorm","Losartan Potassium",40185275,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40185275
+0,"RxNorm","Isosorbide Mononitrate",1383867,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1383867
+0,"RxNorm","Albuterol Inhaler",1356108,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1356108
+0,"RxNorm","Fentanyl Patch",1154029,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1154029
+0,"RxNorm","Golytely",19130941,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19130941
+0,"RxNorm","Nitroglycerin SL",1361711,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1361711
+0,"RxNorm","Warfarin",1310149,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1310149
+0,"RxNorm","EPINEPHrine",1343916,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1343916
+0,"RxNorm","RisperiDONE",735979,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",735979
+0,"RxNorm","Docusate Sodium",42706627,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",42706627
+0,"RxNorm","Cyclobenzaprine",778711,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",778711
+0,"RxNorm","Midazolam",708298,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",708298
+0,"RxNorm","Glycerin Supps",961145,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",961145
+0,"RxNorm","Morphine Sulfate (Oral Solution) 2 mg/mL",40169944,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40169944
+0,"RxNorm","Clonidine Patch 0.2 mg/24 hr",40163939,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40163939
+0,"RxNorm","Propranolol",1353766,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1353766
+0,"RxNorm","TraMADOL (Ultram)",1103314,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1103314
+0,"RxNorm","Lidocaine Jelly 2% (Urojet)",35602800,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",35602800
+0,"RxNorm","Protamine Sulfate",36249934,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",36249934
+0,"RxNorm","Ascorbic Acid",19011773,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19011773
+0,"RxNorm","Methocarbamol",704943,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",704943
+0,"RxNorm","Potassium Chloride Replacement (Critical Care and Oncology)",19049105,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19049105
+0,"RxNorm","Miconazole Nitrate Vag Cream 2%",40223953,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40223953
+0,"RxNorm","Albumin 5% (25g / 500mL)",42903893,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",42903893
+0,"RxNorm","Insulin Glargine  (CVICU Protocol)",1502905,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1502905
+0,"RxNorm","Clonidine Patch 0.3 mg/24 hr",40163939,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40163939
+0,"RxNorm","Fentanyl Citrate",1154029,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1154029
+0,"RxNorm","Clotrimazole Cream",40026931,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40026931
+0,"RxNorm","Glucagon",1560278,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1560278
+0,"RxNorm","Vancomycin Enema",1707687,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1707687
+0,"RxNorm","Polyethylene Glycol",948515,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",948515
+0,"RxNorm","Artificial Tear Ointment",40026671,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40026671
+0,"RxNorm","Prochlorperazine",752061,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",752061
+0,"RxNorm","nitroglycerin",1361711,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1361711
+0,"RxNorm","PHENYLEPHrine",1135766,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1135766
+0,"RxNorm","Oxycodone-Acetaminophen (5mg-325mg)",40002751,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40002751
+0,"RxNorm","Sulfameth/Trimethoprim SS",40101830,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40101830
+0,"RxNorm","MoviPrep",794078,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",794078
+0,"RxNorm","Oxycodone-Acetaminophen",40002751,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40002751
+0,"RxNorm","Heparin Flush (10 units/ml)",1367697,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1367697
+0,"RxNorm","Capsaicin 0.025%",1718244,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1718244
+0,"RxNorm","Norepinephrine",1321341,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1321341
+0,"RxNorm","Morphine Sulfate IR",40169889,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40169889
+0,"RxNorm","Hepatitis B Vaccine",528323,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",528323
+0,"RxNorm","Lidocaine Jelly 2% (Glydo)",45776698,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",45776698
+0,"RxNorm","Oxymetazoline",925636,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",925636
+0,"RxNorm","HydrOXYzine",777221,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",777221
+0,"RxNorm","Sodium Chloride 0.9%  Flush",967823,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",967823
+0,"RxNorm","CeftriaXONE",1777806,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1777806
+0,"RxNorm","Torsemide",942350,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",942350
+0,"RxNorm","Vancomycin",1707687,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1707687
+0,"RxNorm","Chlorpheniramine Maleate",40233648,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40233648
+0,"RxNorm","Nitroprusside Sodium",19020994,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19020994
+0,"RxNorm","Ibuprofen",1177480,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1177480
+0,"RxNorm","Heparin (Hemodialysis)",1367571,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1367571
+0,"RxNorm","Calcium Gluconate",19037038,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19037038
+0,"RxNorm","Epinephrine 1:1000",19076899,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19076899
+0,"RxNorm","Lisinopril",1308216,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1308216
+0,"RxNorm","Albumin 5%",42903893,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",42903893
+0,"RxNorm","Phenylephrine",1135766,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1135766
+0,"RxNorm","OxycoDONE Liquid",1124957,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1124957
+0,"RxNorm","Meropenem",1709170,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1709170
+0,"RxNorm","Milk of Magnesia",19107061,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19107061
+0,"RxNorm","Nystatin Oral Suspension",40068148,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40068148
+0,"RxNorm","Decitabine",19024728,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19024728
+0,"RxNorm","Albumin 5% (12.5g / 250mL)",42903893,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",42903893
+0,"RxNorm","MetFORMIN XR (Glucophage XR)",40063356,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40063356
+0,"RxNorm","Ipratropium-Albuterol Inhalation Spray",37499261,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",37499261
+0,"RxNorm","Lidocaine 1%",989878,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",989878
+0,"RxNorm","Morphine Infusion – Comfort Care Guidelines",1110410,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1110410
+0,"RxNorm","Ipratropium-Albuterol Neb",1356123,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1356123
+0,"RxNorm","Naproxen",1115008,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1115008
+0,"RxNorm","Fosaprepitant",35605594,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",35605594
+0,"RxNorm","CefTAZidime",1776684,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1776684
+0,"RxNorm","Atenolol",1314002,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1314002
+0,"RxNorm","Pseudoephedrine",1154332,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1154332
+0,"RxNorm","Maalox/Diphenhydramine/Lidocaine",40031849,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40031849
+0,"RxNorm","Cyanocobalamin",19075953,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19075953
+0,"RxNorm","Ampicillin-Sulbactam",46275615,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",46275615
+0,"RxNorm","CefazoLIN",1771162,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1771162
+0,"RxNorm","Fludarabine Phosphate",19133314,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19133314
+0,"RxNorm","GlyBURIDE",1559684,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1559684
+0,"RxNorm","Dronabinol",1037005,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1037005
+0,"RxNorm","Erythromycin 0.5% Ophth Oint",19076953,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19076953
+0,"RxNorm","Amoxicillin",1713332,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1713332
+0,"RxNorm","vancomycin",1707687,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1707687
+0,"RxNorm","Famotidine",953076,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",953076
+0,"RxNorm","Colchicine",1101554,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1101554
+0,"RxNorm","Enalapril Maleate",40165755,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40165755
+0,"RxNorm","Cisatracurium Besylate",40173643,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40173643
+0,"RxNorm","MetroNIDAZOLE",1707164,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1707164
+0,"RxNorm","Acetaminophen (Liquid)",1125315,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1125315
+0,"RxNorm","Caphosol",43013180,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",43013180
+0,"RxNorm","Potassium Chloride",19049105,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19049105
+0,"RxNorm","Sodium Chloride Nasal",40080077,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40080077
+0,"RxNorm","IDArubicin",19078097,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19078097
+0,"RxNorm","Captopril",1340128,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1340128
+0,"RxNorm","Hydrocortisone Na Succ.",975125,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",975125
+0,"RxNorm","Doxercalciferol",1512446,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1512446
+0,"RxNorm","Magnesium Citrate",967861,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",967861
+0,"RxNorm","Alteplase 1mg/2mL ( Clearance ie. PICC, midline, tunneled access line, PA )",40220964,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40220964
+0,"RxNorm","Clobetasol Propionate 0.05% Ointment",40164505,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40164505
+0,"RxNorm","Digox",1326303,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1326303
+0,"RxNorm","MetRONIDAZOLE (FLagyl)",40062625,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40062625
+0,"RxNorm","PrednisoLONE Acetate 1% Ophth. Susp.",43526395,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",43526395
+0,"RxNorm","Multivitamins W/minerals",19008339,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19008339
+0,"RxNorm","Piperacillin-Tazobactam",46275426,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",46275426
+0,"RxNorm","Amitriptyline",710062,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",710062
+0,"RxNorm","CeFAZolin",1771162,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1771162
+0,"RxNorm","Prasugrel",40163718,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40163718
+0,"RxNorm","moxifloxacin",1716903,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1716903
+0,"RxNorm","Hydrocodone-Acetaminophen",40002706,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40002706
+0,"RxNorm","Metoclopramide",906780,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",906780
+0,"RxNorm","Enoxaparin Sodium",40160947,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40160947
+0,"RxNorm","Triamcinolone Acetonide 0.1% Ointment",40233964,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40233964
+0,"RxNorm","Pravastatin",1551860,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1551860
+0,"RxNorm","Latanoprost 0.005% Ophth. Soln.",19080125,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19080125
+0,"RxNorm","Phenytoin Sodium (IV)",40163207,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40163207
+0,"RxNorm","Erythromycin",1746940,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1746940
+0,"RxNorm","Ferrous Sulfate",1396131,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1396131
+0,"RxNorm","Pancrelipase 5000",990340,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",990340
+0,"RxNorm","Fexofenadine",1153428,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1153428
+0,"RxNorm","Tamsulosin",924566,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",924566
+0,"RxNorm","Rosuvastatin Calcium",40165244,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40165244
+0,"RxNorm","Guaifenesin-Dextromethorphan",40036170,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40036170
+0,"RxNorm","Phenytoin (Suspension)",40075267,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40075267
+0,"RxNorm","HydrALAZINE",1373928,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1373928
+0,"RxNorm","Clarithromycin",1750500,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1750500
+0,"RxNorm","Thiamine",19137312,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19137312
+0,"RxNorm","Dabigatran Etexilate",40228152,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40228152
+0,"RxNorm","CefePIME",1748975,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1748975
+0,"RxNorm","BuPROPion (Sustained Release)",40015484,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40015484
+0,"RxNorm","Xopenex Neb",1192220,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1192220
+0,"RxNorm","Atorvastatin",1545958,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1545958
+0,"RxNorm","Acetylcysteine 20%",19108542,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19108542
+0,"RxNorm","Doxycycline Hyclate",46234522,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",46234522
+0,"RxNorm","Guaifenesin",1163944,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1163944
+0,"RxNorm","Gentamicin",45892419,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",45892419
+0,"RxNorm","Hydrocortisone",975125,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",975125
+0,"RxNorm","irbesartan",1347384,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1347384
+0,"RxNorm","Mirtazapine",725131,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",725131
+0,"RxNorm","Guaifenesin ER",1163944,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1163944
+0,"RxNorm","AcetaZOLamide",929435,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",929435
+0,"RxNorm","Dorzolamide 2% Ophth. Soln.",19076734,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19076734
+0,"RxNorm","Clindamycin",997881,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",997881
+0,"RxNorm","Amantadine",19087090,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19087090
+0,"RxNorm","Dofetilide",1362979,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1362979
+0,"RxNorm","Artificial Tears",902551,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",902551
+0,"RxNorm","Glutamine",19060985,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19060985
+0,"RxNorm","Guaifenesin-CODEINE Phosphate",40221590,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40221590
+0,"RxNorm","Vitamin D",19009405,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19009405
+0,"RxNorm","Enalaprilat",1342001,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1342001
+0,"RxNorm","Morphine SR (MS Contin)",1110410,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1110410
+0,"RxNorm","Nitrofurantoin Monohyd (MacroBID)",46234345,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",46234345
+0,"RxNorm","Pregabalin",734354,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",734354
+0,"RxNorm","Mannitol",994058,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",994058
+0,"RxNorm","ALPRAZolam",781039,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",781039
+0,"RxNorm","Promethazine",1153013,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1153013
+0,"RxNorm","Nystatin",922570,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",922570
+0,"RxNorm","MethylPREDNISolone Sodium Succ",1506270,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1506270
+0,"RxNorm","Fluticasone Propionate NASAL",40171044,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40171044
+0,"RxNorm","Albuterol 0.083% Neb Soln",19123989,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19123989
+0,"RxNorm","CloNIDine",1398937,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1398937
+0,"RxNorm","Nitroglycerin Ointment  2%",40071543,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40071543
+0,"RxNorm","quiniDINE Gluconate E.R.",19095421,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19095421
+0,"RxNorm","Dextromethorphan-Guaifenesin (Sugar Free)",40036170,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40036170
+0,"RxNorm","Sucralfate",1036228,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1036228
+0,"RxNorm","Clobetasol Propionate 0.05% Cream",40164516,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40164516
+0,"RxNorm","Ciprofloxacin",1797513,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1797513
+0,"RxNorm","Gentamicin 0.3% Ophth. Soln",19030227,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19030227
+0,"RxNorm","Ramipril",1334456,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1334456
+0,"RxNorm","Valproic Acid",40237988,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40237988
+0,"RxNorm","Hydrocodone-Acetaminophen (5mg-325mg)",40002706,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40002706
+0,"RxNorm","LORazepam",791967,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",791967
+0,"RxNorm","Nystatin-Triamcinolone Cream",40067735,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",40067735
+0,"RxNorm","Quetiapine Fumarate",766814,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",766814
+0,"RxNorm","Hydrocerin",1174888,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1174888
+0,"RxNorm","Acyclovir",1703687,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1703687
+0,"RxNorm","Hyoscyamine",923672,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",923672
+0,"RxNorm","Maalox/Lidocaine",989878,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",989878
+0,"RxNorm","Ciprofloxacin HCl",1797513,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1797513
+0,"RxNorm","Lidocaine Viscous 2%",989878,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",989878
+0,"RxNorm","Sacubitril-Valsartan (24mg-26mg)",46275724,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",46275724
+0,"RxNorm","Sodium Chloride 3% Inhalation Soln",19127005,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19127005
+0,"RxNorm","NiCARdipine",1318137,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1318137
+0,"RxNorm","Vasopressin",1507835,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1507835
+0,"RxNorm","Nitroglycerin",1361711,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1361711
+0,"RxNorm","Dexmedetomidine",19061088,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",19061088
+0,"RxNorm","Heparin (IABP)",1367571,"RxNorm",1970-01-01,2099-12-31,,"Drug","Ingredient","S",1367571

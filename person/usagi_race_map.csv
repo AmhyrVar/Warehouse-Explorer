@@ -1,0 +1,11 @@
+source_code,source_concept_id,source_vocabulary_id,source_code_description,target_concept_id,target_vocabulary_id,valid_start_date,valid_end_date,invalid_reason
+7,0,usagi race mapping,HISPANIC/LATINO - SALVADORAN,38003563,Ethnicity,1970-01-01,2099-12-31,
+1,0,usagi race mapping,BLACK/CAPE VERDEAN,8516,Race,1970-01-01,2099-12-31,
+13,0,usagi race mapping,WHITE - BRAZILIAN,8527,Race,1970-01-01,2099-12-31,
+10,0,usagi race mapping,PORTUGUESE,8527,Race,1970-01-01,2099-12-31,
+9,0,usagi race mapping,WHITE - OTHER EUROPEAN,8527,Race,1970-01-01,2099-12-31,
+2,0,usagi race mapping,HISPANIC/LATINO - PUERTO RICAN,38003563,Ethnicity,1970-01-01,2099-12-31,
+6,0,usagi race mapping,BLACK/AFRICAN AMERICAN,8516,Race,1970-01-01,2099-12-31,
+3,0,usagi race mapping,WHITE,8527,Race,1970-01-01,2099-12-31,
+14,0,usagi race mapping,HISPANIC OR LATINO,38003563,Ethnicity,1970-01-01,2099-12-31,
+11,0,usagi race mapping,HISPANIC/LATINO - CUBAN,38003563,Ethnicity,1970-01-01,2099-12-31,
