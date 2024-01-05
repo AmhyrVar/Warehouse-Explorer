@@ -1,4 +1,5 @@
 MIMIC-IV to OMOP Project
 
-Pharmacy mapped to drug_exposure
-Patients and Admissions mapped to person
+pharmacy mapped to drug_exposure
+patients and admissions mapped to person
+labevents mapped to measurements
