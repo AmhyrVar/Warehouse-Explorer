@@ -1,5 +1,9 @@
 library(tidyverse)
-
+condition_occurrence_raw <- read.csv("condition/condition_occurrence_raw.csv")
+admissions <- read.csv("condition/admissions.csv")
+diagnoses_icd <- read.csv("condition/diagnoses_icd.csv")
+d_icd_diagnoses <-  read.csv("condition/d_icd_diagnoses.csv")
+final_maps <- read.csv("condition/final_maps.csv")
 
 co_temp <- condition_occurrence_raw[FALSE, ]
 if(nrow(co_temp ) == 0) {
@@ -13,17 +17,14 @@ co_temp <- co_temp %>%
          condition_start_date,
          condition_type_concept_id,
          condition_end_date)
+
 admissions <- admissions %>% 
   select(hadm_id,admittime,dischtime)
 
 diagnoses_icd <- diagnoses_icd %>% 
   left_join(admissions, by="hadm_id")
 
-co_temp$condition_occurrence_id <- 90000:(89999 + nrow(co_temp))
-co_temp$person_id <- diagnoses_icd$subject_id
-co_temp$condition_start_date <- diagnoses_icd$admittime.x
-co_temp$condition_end_date <- diagnoses_icd$dischtime.x
-co_temp$condition_type_concept_id <- 32020
+
 
 icd_map <- diagnoses_icd %>% 
   select(icd_code) %>% 
@@ -34,17 +35,29 @@ icd_map <- icd_map %>%
 
 write.csv(icd_map, "condition/icd_map.csv" ,row.names = FALSE)
 
-final_map <- final_map[, c("source_code_description", "target_concept_id")]
+final_maps <- final_maps[, c("source_code_description", "target_concept_id")]
 
 icd_map <- icd_map %>%
-  left_join(final_map, by = c("long_title" = "source_code_description"))
+  left_join(final_maps, by = c("long_title" = "source_code_description"))
 
 diagnoses_icd <- diagnoses_icd %>% 
   left_join(icd_map, by = c("icd_code" = "icd_code", "icd_version" = "icd_version"))
 
+co_temp$condition_occurrence_id <- 90000:(89999 + nrow(co_temp))
+co_temp$person_id <- diagnoses_icd$subject_id
+co_temp$condition_start_date <- diagnoses_icd$admittime
+co_temp$condition_end_date <- diagnoses_icd$dischtime
+co_temp$condition_type_concept_id <- 32020
 co_temp$condition_concept_id <- diagnoses_icd$target_concept_id
 
-write.csv(co_temp, file = "condition/condition_occurrence.csv", na = "", row.names = FALSE)
+
+
+
+
+
+
+
+
 
 opr <- read.csv("drug_exposure/observation_period_raw.csv")
 opr_temp <- opr[FALSE, ]

@@ -1,6 +1,10 @@
 {
     "sortOrder": [
         {
+            "columnIndex": 3,
+            "ascending": false
+        },
+        {
             "columnIndex": 4,
             "ascending": false
         },
@@ -9,5 +13,5 @@
             "ascending": true
         }
     ],
-    "path": "C:/Master/Warehouse/mimic-iv-clinical-database-demo-2.2/Warehouse Explorer/condition"
+    "path": "C:/Master/Warehouse/mimic-iv-clinical-database-demo-2.2/Warehouse Explorer"
 }
