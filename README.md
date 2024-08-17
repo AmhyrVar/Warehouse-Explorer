@@ -1,5 +1,1 @@
-MIMIC-IV to OMOP Project
-
-pharmacy mapped to drug_exposure
-patients and admissions mapped to person
-labevents mapped to measurements
+MIMIC-IV to OMOP ETL Project for Data Warehouses Assignment (Master 2 Données Massives en Santé - Paris Cité)
